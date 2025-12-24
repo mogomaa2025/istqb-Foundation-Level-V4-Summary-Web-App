@@ -2,6 +2,8 @@
 
 A simple, static website containing concise summaries for ISTQB Foundation Level v4 chapters. Open `index.html` in your browser to navigate to each chapter.
 
+<img width="642" height="776" alt="image" src="https://github.com/user-attachments/assets/e7ecb690-7312-4168-8b16-cd44e6865803" />
+
 ## Test
 https://shorturl.at/4bqV9
 
